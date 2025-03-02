@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26d52ceb483c23341a02c78cdfe3cc5e, type: 3}
+  m_Name: Skins
+  m_EditorClassIdentifier: 
+  characters:
+  - Id_Character: 0
+    Name_Character: KEVIN
+    Description: 
+    levelUnlock: 0
+    mesh_skin: {fileID: -1120151256290444803, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: 5715e5c3496768f4ab10e690e98592d2, type: 2}
+    spIcon: {fileID: 21300000, guid: 5ea7d4923089e944790fbd61d3248fdf, type: 3}
+    spLock: {fileID: 21300000, guid: 2898c6e80bebca346b2a257c240e7af1, type: 3}
+    typeUnlock: 0
+  - Id_Character: 1
+    Name_Character: HIPPY BOY
+    Description: 
+    levelUnlock: 0
+    mesh_skin: {fileID: -4119661658935737071, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: 7beb21fe693e75f4aa0eb0f40a8c4493, type: 2}
+    spIcon: {fileID: 21300000, guid: d0c5db26eafce544ab758e9231a6a9f6, type: 3}
+    spLock: {fileID: 21300000, guid: a4cbf2842fd1a674d954c8c3a72bc54c, type: 3}
+    typeUnlock: 1
+  - Id_Character: 2
+    Name_Character: GINGER
+    Description: 
+    levelUnlock: 4
+    mesh_skin: {fileID: 1319186179273116570, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: a6cc3ddefead788408c616947c975614, type: 2}
+    spIcon: {fileID: 21300000, guid: 790071a96209b1647af48960bd833069, type: 3}
+    spLock: {fileID: 21300000, guid: 2254ff482e243294c8b1a90cc811fab1, type: 3}
+    typeUnlock: 0
+  - Id_Character: 3
+    Name_Character: GUCCI GANG
+    Description: 
+    levelUnlock: 8
+    mesh_skin: {fileID: -4421975096639078479, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: 7f4264a5cf8c3b145838ce211b39c89b, type: 2}
+    spIcon: {fileID: 21300000, guid: 1d816d7313eecb049a912a62ffecf0c8, type: 3}
+    spLock: {fileID: 21300000, guid: 2fbcc0b2863e51e4b917bbd60742e8dd, type: 3}
+    typeUnlock: 0
+  - Id_Character: 4
+    Name_Character: JACK
+    Description: 
+    levelUnlock: 11
+    mesh_skin: {fileID: 560594498004028699, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: 8adeddf7a7f941248be21c8c6f9c4197, type: 2}
+    spIcon: {fileID: 21300000, guid: 4aafa6bbc465f0d4f9bd6f8f224e3ae3, type: 3}
+    spLock: {fileID: 21300000, guid: 1241d0122679e8446aabd7ac944a28ca, type: 3}
+    typeUnlock: 0
+  - Id_Character: 5
+    Name_Character: JUNIOR PARAOH
+    Description: 
+    levelUnlock: 14
+    mesh_skin: {fileID: 974171746739628883, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: a0ebab73063b8c34dbcd7d017a531676, type: 2}
+    spIcon: {fileID: 21300000, guid: eae3ec0135c8bff4cb15af21606501b1, type: 3}
+    spLock: {fileID: 21300000, guid: f1c1c97dae68fb74d976f5d942676b69, type: 3}
+    typeUnlock: 0
+  - Id_Character: 6
+    Name_Character: BEN
+    Description: 
+    levelUnlock: 18
+    mesh_skin: {fileID: -6540292887097614267, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: 84355b4e7f9a2ce4aa50fd55db598164, type: 2}
+    spIcon: {fileID: 21300000, guid: 5ae53a060abe35046b7fa33b5792c0d1, type: 3}
+    spLock: {fileID: 21300000, guid: defb289026fbea84897ee0286150c32a, type: 3}
+    typeUnlock: 0
+  - Id_Character: 7
+    Name_Character: EXTREME ATHLETE
+    Description: 
+    levelUnlock: 22
+    mesh_skin: {fileID: 8206954211184097926, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: c8962be840048ed4aa5141695bd65f58, type: 2}
+    spIcon: {fileID: 21300000, guid: 8e7aa5dad5a2ab3438a0ac518bddce15, type: 3}
+    spLock: {fileID: 21300000, guid: 344e0da3dcfcc924f81254c92a099751, type: 3}
+    typeUnlock: 0
+  - Id_Character: 8
+    Name_Character: EXTREME ATHLETE
+    Description: 
+    levelUnlock: 25
+    mesh_skin: {fileID: 8206954211184097926, guid: 1f1c93b76a9092140b8c58b0ee61469b,
+      type: 3}
+    material: {fileID: 2100000, guid: c8962be840048ed4aa5141695bd65f58, type: 2}
+    spIcon: {fileID: 21300000, guid: 8e7aa5dad5a2ab3438a0ac518bddce15, type: 3}
+    spLock: {fileID: 21300000, guid: 344e0da3dcfcc924f81254c92a099751, type: 3}
+    typeUnlock: 0

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604082122337",
+    "firebase_url": "https://parkour-2-b4fea.firebaseio.com",
+    "project_id": "parkour-2-b4fea",
+    "storage_bucket": "parkour-2-b4fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604082122337:android:10f273b2f415e449f60420",
+        "android_client_info": {
+          "package_name": "com.nextsol.parkourgame2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604082122337-cp0r94nv0n0tlvccvt367ha9tvq5l8vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKoXVjwHYbSVu4OCMep3W-_lzpaYK5d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604082122337-cp0r94nv0n0tlvccvt367ha9tvq5l8vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

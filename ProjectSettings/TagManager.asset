@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - nhayxa
+  - Die
+  - slide
+  - Win
+  - jump
+  - ground
+  - climb
+  - NhayVuotRao
+  - checkPoint
+  - Ground
+  - vatcan
+  - FxTemporaire
+  - suggestAI
+  - booster
+  - coin
+  - BatNhay
+  - Die2
+  - rotatecam
+  - camdefault
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - Player
+  - AI
+  - star
+  - BlackScreen
+  - VatCan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fx
+    uniqueID: 3650507873
+    locked: 0
